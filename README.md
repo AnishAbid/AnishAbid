@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnishAbid.
+- 👋 Hi, I’m @AnishAbid. I have a 5 years of experiance as software engineer.
 - 👀 I’m interested in JavaScript specialy in (MEAN/MERN) Stack Development.
 - 🌱 I’m currently working on fanweave project as MERN Stack Developer .
 - 💞️ I’m looking forward to work with multinational/global companies or foreign clients. 
